@@ -1,0 +1,11 @@
+{
+  "name": "mcp-biskill",
+  "owner": { "name": "Performance & BI" },
+  "plugins": [
+    {
+      "name": "mcp-biskill",
+      "source": "./",
+      "description": "Regras de uso dos BIs da InvestSmart/BeSmart com o Fabric IQ."
+    }
+  ]
+}

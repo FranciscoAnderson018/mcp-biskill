@@ -1,0 +1,5 @@
+{
+  "name": "mcp-biskill",
+  "description": "Regras para o Claude consultar os BIs da InvestSmart/BeSmart pelo Fabric IQ: procura em outro BI, só SmartBonus 2.0, somente leitura e aviso de dado defasado.",
+  "version": "1.0.0"
+}
